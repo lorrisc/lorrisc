@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**lorrisc/lorrisc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en Master MIAGE, spécialisation Ingénierie des Données et Analyse, je me prépare à intégrer le domaine de l'Ingénierie des Données après l'obtention de mon diplôme.
 
-Here are some ideas to get you started:
+💡 Compétences techniques acquises à travers mes formations et expériences professionnelles :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Bases de données relationnelles
+- Bases de données NoSQL
+- Bases de données orientées séries temporelles (InfluxDB)
+- Outils de visualisation et d'aide à la décision
+- Intégration de données
+- Apprentissage supervisé
+  
+📈 Je cherche à approfondir mes compétences techniques en contribuant à des projets ambitieux autour de la collecte, du traitement et de la valorisation des données.
