@@ -15,5 +15,5 @@ Je souhaite devenir Data engineer.
 
 ## Quelques projets
 
-- [PixelToPath](https://github.com/lorrisc/PixelToPath) - Logiciel open source permettant de transformer une image PNG en SVG.
+- [PixelToPath](https://github.com/lorrisc/PixelToPath) ⭐ ![GitHub stars](https://img.shields.io/github/stars/lorrisc/PixelToPath) - Logiciel open source permettant de transformer une image PNG en SVG.
 - [Trafic Rennes - Cloud AWS](https://github.com/lorrisc/trafic-rennes-cloud-aws) - Analyse du trafic en temps réel de Rennes Métropole à l'aide d'un pipeline de données AWS.
